@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning diferent programming lenguages such as C# or Python<br>🎯 Goals: Learn and enter the programming industry<br>🎲 Fun fact: Saquenme de Randstad</p>
+<p align="left">📚 I'm currently learning diferent programming lenguages such as C# or Python<br>🎯 Goals: Learn and enter the programming industry<br>🎲 I Like: Videogames, Literature, TTG and Rol</p>
 
 ###
 
